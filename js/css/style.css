@@ -1,0 +1,19 @@
+.errormsg {
+    font-size: 12px;
+    color: red;
+    font-weight: bold;
+  }
+  .fa-trash-alt {
+    color: #e74a3b;
+  }
+
+  .fa-user-edit
+  {
+    color: #1cc88a;
+  }
+
+
+.login-image {
+  /* background-image: url("img_tree.gif"), url("paper.gif"); */
+  background-color: red;
+}
